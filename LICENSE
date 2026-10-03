@@ -1,0 +1,27 @@
+Harmoni Engine Middleware License
+
+Copyright (c) 2026 Bobadilla, M., Degulacion, S., Gutierrez, M., & Logdat, K.
+
+Permission is hereby granted, free of charge, to any person obtaining a copy of this software and associated documentation
+files (the "Software"), to integrate and use the Software in both commercial and non-commercial games or applications,
+subject to the following conditions:
+
+1. ATTRIBUTION REQUIREMENT
+Any published game, application, or media that uses the Software must include a clear citation in its credits,
+documentation, or about page.
+
+The citation must read:
+"Procedural Music powered by the Harmoni Engine, created by Bobadilla, M., Degulacion, S., Gutierrez, M., & Logdat, K."
+
+2. RESTRICTIONS ON MODIFICATION AND REVERSE ENGINEERING
+You may not modify, alter, translate, or create derivative works of the Software. You may not decompile, disassemble,
+reverse engineer, or otherwise attempt to derive the source code from the compiled executable or binaries provided.
+
+3. REDISTRIBUTION
+You may distribute the Software only as an integrated, compiled component of your game or application. You may not
+repackage, resell, or distribute the Software as a standalone standalone tool, SDK, or plugin.
+
+THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE
+WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE AUTHORS OR
+COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE,
+ARISING FROM, OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.
