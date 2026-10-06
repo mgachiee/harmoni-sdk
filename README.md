@@ -59,7 +59,7 @@ Open a TCP socket to `127.0.0.1:6767` and send a handshake. As you stream JSON t
 
 For full integration instructions and the TCP JSON schema definitions, please visit the official documentation:
 
-👉 **[Read the Harmoni TCP Integration Guide](https://your-docs-website.com)** 👈
+👉 **[Read the Harmoni TCP Integration Guide](https://harmoni-pmg.vercel.app/docs#integration-guide)** 👈
 
 *(Note: The documentation includes a complete mapping guide to help you translate your game metrics—like player health, enemy proximity, and zone changes—into Valence and Arousal values).*
 
