@@ -1,5 +1,5 @@
 <div align="center">
-  <img width="256" height="256" alt="harmoni-logo" src="https://github.com/user-attachments/assets/20566383-9654-4342-a7c4-4ec95a38ee6c" />
+  <img width="256" height="256" alt="harmoni-logo" src="https://github.com/user-attachments/assets/5ed36206-ae9e-4465-9db2-4c46544e8dc3" />
   <h1>HARMONI SDK</h1>
   <p><strong>A Generative Multi-Agent Music System for Real-Time Interactive Media</strong></p>
 
